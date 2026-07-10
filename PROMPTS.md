@@ -1,3 +1,2 @@
-Now, Create a section about devconf 2026,where you show a title on the middle of the section :ABOUT THE CONFERENCE ; and the sub title must be about the venue of the conference on the title bottom,; 
-there must have a hackathon details on the right side by using unordered list; ; at the bottom there must have past highlights and the sub theam of the conference;  [the full section background color have brightblue.and proper use of css.and if the information is very resent than take information from the google] 
+Now,from the google] 
   
