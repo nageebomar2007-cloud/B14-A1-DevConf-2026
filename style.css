@@ -21,6 +21,10 @@
     color: #535353;
 }
 
+.arrange-type a{
+    color: black;
+    text-decoration: none;
+}
 
 .register button {
     background-color: #0746f3;
